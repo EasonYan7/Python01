@@ -1,3 +1,6 @@
+@Author: Sen Yan
+ @Date: 2021/3/28
+
 import smtplib
 from email.mime.text import MIMEText
 import requests
